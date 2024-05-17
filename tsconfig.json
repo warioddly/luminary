@@ -1,0 +1,16 @@
+
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es5",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+  },
+  "files": [
+    "src/main.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
